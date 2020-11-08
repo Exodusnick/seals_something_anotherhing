@@ -60,5 +60,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     sys.usb.ffs.aio_compat=1
 
 # TEMP: disable hwc
-PRODUCT_PROPERTY_OVERRIDES += \
-    debug.hwc.force_gpu=1
+#PRODUCT_PROPERTY_OVERRIDES += \
+    #debug.hwc.force_gpu=1
